@@ -31,8 +31,8 @@ import numpy as np
 
 # my_db = mysql.connector.connect(
 #     host="localhost",
-#     user="root",
-#     password="5687",
+#     user=input(),
+#     password=input(),
 #     database="coordinates"
 # )
 #
